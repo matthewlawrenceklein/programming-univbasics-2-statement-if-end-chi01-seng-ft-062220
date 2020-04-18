@@ -1,2 +1,7 @@
 # Write your solution here
-puts time.now.second
+if 
+  time.now.second % 2 == 0
+  puts "Even!"
+else
+  puts "Odd!"
+end  
