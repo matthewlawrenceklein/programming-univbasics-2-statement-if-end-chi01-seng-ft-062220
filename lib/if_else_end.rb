@@ -1,5 +1,5 @@
 # Write your solution here
-if 
+if
   time.now.second % 2 == 0
   puts "Even!"
 else
